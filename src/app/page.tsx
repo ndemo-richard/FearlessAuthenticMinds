@@ -47,7 +47,7 @@ undertaking mental health consultancy for organizations.
   <div className="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
       <div className="max-w-screen-md mb-8 lg:mb-16">
           <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Embrace Your Authenticity: Fearless Wellness for a Fulfilling Life</h2>
-          <p className="text-gray-500 sm:text-xl dark:text-gray-400">At Fearless Authentic Wellness Consultancy, we're dedicated to leveraging the intersection of mental health, innovation, and personal empowerment to unlock long-lasting well-being and drive positive transformation in individuals and organizations alike</p>
+          <p className="text-gray-500 sm:text-xl dark:text-gray-400">At Fearless Authentic Wellness Consultancy, we&apos;re dedicated to leveraging the intersection of mental health, innovation, and personal empowerment to unlock long-lasting well-being and drive positive transformation in individuals and organizations alike</p>
       </div>
       <div className="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
           <div>
@@ -99,7 +99,7 @@ undertaking mental health consultancy for organizations.
       <section className="mt-5 bg-white dark:bg-gray-900">
     <div className="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
         <div className="max-w-screen-md">
-            <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Let's find more that brings us together.</h2>
+            <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Let&apos;s find more that brings us together.</h2>
             <p className="mb-8 font-light text-gray-500 sm:text-xl dark:text-gray-400">Reach Out for Counseling Session Details: Time, Prices, and Supportive Guidance Await!</p>
             <div className="flex flex-col space-y-4 sm:flex-row sm:space-y-0 sm:space-x-4">
                 <a href="#" className="inline-flex items-center justify-center px-4 py-2.5 text-base font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:focus:ring-primary-900">
