@@ -8,8 +8,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'FEARLESS AUTHENTIC WELLNESS CONSULTANCY',
-  description: 'We help you become fearless authentic; to be yourself and live a life that not only looks good on the outside but also feels good on the inside.',
+  title: 'FEARLESS AUTHENTIC WELLNESS',
+  description: 'Nurturing Minds, Transforming Lives, One Authentic Step at a Time',
 };
 
 export default function RootLayout({

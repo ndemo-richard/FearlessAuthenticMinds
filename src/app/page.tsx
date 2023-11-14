@@ -18,7 +18,7 @@ function Home() {
             </a> 
         </div>
         <div className="lg:mt-0 lg:col-span-5 lg:flex rounded-xl bg-gradient-to-r from-indigo-950 to-orange-400 ">
-            <img className="rounded-full"src="/images/mental_health.jpg" alt="mockup" />
+            <img className="rounded-full"src="/images/two.jpg" alt="mockup" />
         </div>                
     </div>
 </section>
@@ -27,18 +27,19 @@ function Home() {
     <div className="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div className="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">FEARLESS AUTHENTIC WELLNESS CONSULTANCY</h2>
-            <p className="mb-4">We are here to help you become fearless
-authentic; to be yourself and live a life that not only looks good on the outside but also feels good on the
-inside. To be REAL, be true to your values regardless of what the society and others think or expect of
-you!
-</p>
-            <p>To achieve this, the firm aims at providing psychosocial support services to individual and groups while
-undertaking mental health consultancy for organizations.
+            <p className="mb-4">Living in a world that most often exerts pressure on us to ‘’fit in’’ can be overwhelming and many like
+are sucked into believing that they actually need to ‘’fit in’’ to feel like they belong. So, what will happen
+if we actually be OURSELVES instead of trying so hard to ‘’fit in’’ in a world that is constantly trying to
+make us something else?
+FEARLESS AUTHENTIC WELLNESS CONSULTANCY is here to help you become fearless authentic; to be
+yourself and live a life that not only looks good on the outside but also feels good on the inside. To be
+REAL, be true to your values regardless of what the society and others think or expect of you!
+Embrace Your Authenticity Fearlessly for a Fulfilling life!
 </p>
         </div>
         <div className="grid grid-cols-2 gap-4 mt-8">
-            <img className="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1" />
-            <img className="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2" />
+            <img className="w-full rounded-lg" src="/images/one.jpeg" alt=" content 1" />
+            <img className="mt-4 w-full lg:mt-10 rounded-lg" src="/images/three.jpeg" alt="office content 2" />
         </div>
     </div>
 </section>
