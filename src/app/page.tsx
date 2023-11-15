@@ -6,16 +6,16 @@ function Home() {
 
 <section className="bg-inherit">
     <div className="grid gap-8 max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 sm:gap-8">
-        <div className="mr-auto place-self-center lg:col-span-7">
+        <div className="mr-auto place-self-center lg:col-span-7 font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h1 className="max-w-2xl mb-4 text-2xl font-extrabold tracking-tight leading-none md:text-3xl xl:text-4xl dark:text-white">FEARLESS AUTHENTIC WELLNESS</h1>
             <p className="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">Nurturing Minds, Transforming Lives, One Authentic Step at a Time</p>
-           <p className="mb-4 max-w-2xl mb-6 font-light text-slate-900">At Fearless Authentic Wellness Consultancy, we&#39;re dedicated to leveraging the intersection of mental
+           <p className="mb-4 max-w-2xl mb-6 ">At Fearless Authentic Wellness Consultancy, we&#39;re dedicated to leveraging the intersection of mental
 health, innovation, and personal empowerment to unlock long-lasting well-being and drive positive
 transformation in individuals and organizations alike
 To achieve this, we aim at providing mental health and psychosocial support services to both individual
 and groups as well as undertake mental health consultancy for organizations. Our focus is on the
 following key areas:</p>
-<ul className="mb-4 max-w-2xl mb-6 font-light text-slate-900">
+<ul className="mb-4 max-w-2xl mb-6">
 <li>❖ Providing Counseling Services to Individuals and Groups</li>
 <li>❖ Conducting Mental Health talks to organizations</li>
 <li>❖ Advocating for mental health and self-awareness</li>
@@ -26,7 +26,7 @@ following key areas:</p>
             
         </div>
         <div className="lg:mt-0 lg:col-span-5 lg:flex rounded-xl bg-inherit">
-            <img className="rounded-full"src="/images/two.jpg" alt="mockup" />
+            <img className="rounded-one"src="/images/two.jpg" alt="mockup" />
         </div>                
     </div>
 </section>
@@ -53,7 +53,7 @@ Embrace Your Authenticity Fearlessly for a Fulfilling life!
 </section>
 
 <section className="mt-5 bg-white dark:bg-gray-900" id="service">
-  <div className="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
+  <div className="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6 font-light text-gray-500 sm:text-lg dark:text-gray-400">
       <div className="max-w-screen-md mb-8 lg:mb-16">
           <h2 className="mb-4 text-3xl tracking-tight font-extrabold text-gray-900 dark:text-white">Services</h2>
       </div>
@@ -101,7 +101,7 @@ coping skills for safe engagement with complainants and avoid vicarious trauma.<
 
 <section className="bg-white dark:bg-gray-900" id='contact'>
     <div className="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
-        <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Let&apos;s find more that brings us together.</h1>
+        <h1 className="mb-4 text-2xl font-extrabold tracking-tight leading-none text-gray-900 md:text-3xl lg:text-5xl dark:text-white">Let&apos;s find more that brings us together.</h1>
         <p className="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">Reach Out for Counseling Session Details: Time, Prices, and Supportive Guidance Await!</p>
         <div className="px-4 mx-auto text-center md:max-w-screen-md lg:max-w-screen-lg lg:px-36">
             <div className="flex flex-wrap justify-center items-center mt-8 text-gray-500 sm:justify-between">
