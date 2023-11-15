@@ -57,7 +57,7 @@ Embrace Your Authenticity Fearlessly for a Fulfilling life!
       <div className="max-w-screen-md mb-8 lg:mb-16">
           <h2 className="mb-4 text-3xl tracking-tight font-extrabold text-gray-900 dark:text-white">Services</h2>
       </div>
-      <ul className="mb-4 max-w-2xl mb-6 font-light text-slate-900">
+      <ul className="mb-4">
           <li>❖Individual Counseling</li>
           <li> ❖ Couples counseling and Family therapy</li>
           <li>❖ Group counseling</li>
