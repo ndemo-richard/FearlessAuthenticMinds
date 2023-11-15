@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 function Home() {
   return (
-    <main className="scroll-smooth pb-5 flex min-h-screen flex-col items-center justify-between bg-neutral-500  ">
+    <main className="scroll-smooth pb-5 flex min-h-screen flex-col items-center justify-between bg-gray-500  ">
 
 <section className="bg-inherit">
     <div className="grid gap-8 max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 sm:gap-8">
