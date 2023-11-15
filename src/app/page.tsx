@@ -11,7 +11,7 @@ function Home() {
             <p className="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">Nurturing Minds, Transforming Lives, One Authentic Step at a Time</p>
            <p className="mb-4 max-w-2xl mb-6 ">At Fearless Authentic Wellness Consultancy, we&#39;re dedicated to leveraging the intersection of mental
 health, innovation, and personal empowerment to unlock long-lasting well-being and drive positive
-transformation in individuals and organizations alike
+transformation in individuals and organizations alike</p><p>
 To achieve this, we aim at providing mental health and psychosocial support services to both individual
 and groups as well as undertake mental health consultancy for organizations. Our focus is on the
 following key areas:</p>
@@ -38,10 +38,10 @@ following key areas:</p>
             <p className="mb-4">Living in a world that most often exerts pressure on us to ‘’fit in’’ can be overwhelming and many like
 are sucked into believing that they actually need to ‘’fit in’’ to feel like they belong. So, what will happen
 if we actually be OURSELVES instead of trying so hard to ‘’fit in’’ in a world that is constantly trying to
-make us something else?
+make us something else?</p><p>
 FEARLESS AUTHENTIC WELLNESS CONSULTANCY is here to help you become fearless authentic; to be
 yourself and live a life that not only looks good on the outside but also feels good on the inside. To be
-REAL, be true to your values regardless of what the society and others think or expect of you!
+REAL, be true to your values regardless of what the society and others think or expect of you!</p><p>
 Embrace Your Authenticity Fearlessly for a Fulfilling life!
 </p>
         </div>

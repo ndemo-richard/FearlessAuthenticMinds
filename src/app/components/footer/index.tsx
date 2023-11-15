@@ -6,10 +6,13 @@ const Footer = () => {
     <footer className="p-4 bg-white md:p-8 lg:p-10 dark:bg-gray-800">
   <div className="mx-auto max-w-screen-xl text-center">
       <a href="#" className="flex justify-center items-center text-2xl font-semibold text-gray-900 dark:text-white">
-          Fearless Authentic Wellness    
+      COUNSELING AND WELLNESS SPECIALITY   
       </a>
-      <p className=" my-6 text-gray-500 dark:text-gray-400">Fearless Authentic Wellness Consultancy uses Person Centered approach to deliver support that gradually
-empowers individuals, families, groups and organizations to make informed life changing decisions.
+      <p className=" my-6 text-gray-500 dark:text-gray-400">Fearless Authentic Wellness Consultancy uses Person Centered approach to deliver support that
+gradually empowers individuals, families, groups and organizations to make informed life changing
+decisions. Additionally, we apply cognitive behavioral therapy (CBT) and techniques to address mental
+health conditions and improve clients’ outcomes during a crisis. We have a special interest in cognitive
+behavioral therapy, Behavioral Modification and client Centered Counseling.
 </p>
       <ul className="hidden flex flex-wrap justify-center items-center mb-6 text-gray-900 dark:text-white">
           <li>
