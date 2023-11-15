@@ -8,10 +8,10 @@ const Footer = () => {
       <a href="#" className="flex justify-center items-center text-2xl font-semibold text-gray-900 dark:text-white">
           Fearless Authentic Wellness    
       </a>
-      <p className="my-6 text-gray-500 dark:text-gray-400">Fearless Authentic Wellness Consultancy uses Person Centered approach to deliver support that gradually
+      <p className=" my-6 text-gray-500 dark:text-gray-400">Fearless Authentic Wellness Consultancy uses Person Centered approach to deliver support that gradually
 empowers individuals, families, groups and organizations to make informed life changing decisions.
 </p>
-      <ul className="flex flex-wrap justify-center items-center mb-6 text-gray-900 dark:text-white">
+      <ul className="hidden flex flex-wrap justify-center items-center mb-6 text-gray-900 dark:text-white">
           <li>
               <a href="#" className="mr-4 hover:underline md:mr-6 ">About</a>
           </li>
@@ -36,7 +36,7 @@ empowers individuals, families, groups and organizations to make informed life c
       </ul>
       <section className="bg-white dark:bg-inherit">
   <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
-      <div className="mx-auto max-w-screen-md sm:text-center">
+      <div className="hidden mx-auto max-w-screen-md sm:text-center">
           <h2 className="mb-4 text-3xl tracking-tight font-extrabold text-gray-900 sm:text-4xl dark:text-white">Sign up for our newsletter</h2>
           <p className="mx-auto mb-8 max-w-2xl font-light text-gray-500 md:mb-12 sm:text-xl dark:text-gray-400">Stay up to date with the roadmap progress, announcements and exclusive discounts feel free to sign up with your email.</p>
           <form action="#">
