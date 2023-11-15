@@ -114,7 +114,7 @@ Embrace Your Authenticity Fearlessly for a Fulfilling life!
 
 <section className="bg-white dark:bg-gray-900" id='contact'>
     <div className="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
-        <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Let's find more that brings us together.</h1>
+        <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Let&apos;s find more that brings us together.</h1>
         <p className="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">Reach Out for Counseling Session Details: Time, Prices, and Supportive Guidance Await!</p>
         <div className="px-4 mx-auto text-center md:max-w-screen-md lg:max-w-screen-lg lg:px-36">
             <div className="flex flex-wrap justify-center items-center mt-8 text-gray-500 sm:justify-between">
